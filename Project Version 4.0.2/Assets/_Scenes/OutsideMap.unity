@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 481491456}
   - component: {fileID: 481491455}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: _BigBossCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -246,7 +246,7 @@ GameObject:
   - component: {fileID: 606125727}
   - component: {fileID: 606125726}
   m_Layer: 0
-  m_Name: Terrain
+  m_Name: _Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -412,7 +412,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5792744366562842766, guid: 4e7afdf31c20ebf419ea38bf1d358719, type: 3}
       propertyPath: m_Name
-      value: CrabMonster 1
+      value: _BigBoss
       objectReference: {fileID: 0}
     - target: {fileID: 5792744366562842766, guid: 4e7afdf31c20ebf419ea38bf1d358719, type: 3}
       propertyPath: m_TagString
@@ -586,7 +586,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3820376446597890203, guid: ac53466bfcddb4f2cbc6715df14761a6, type: 3}
       propertyPath: m_Name
-      value: Player1 Variant
+      value: _Character1
       objectReference: {fileID: 0}
     - target: {fileID: 4489917921355422241, guid: ac53466bfcddb4f2cbc6715df14761a6, type: 3}
       propertyPath: m_RootOrder
@@ -647,7 +647,7 @@ GameObject:
   - component: {fileID: 1536063640}
   - component: {fileID: 1536063639}
   m_Layer: 0
-  m_Name: GiantDestination
+  m_Name: _BigBossDestination
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

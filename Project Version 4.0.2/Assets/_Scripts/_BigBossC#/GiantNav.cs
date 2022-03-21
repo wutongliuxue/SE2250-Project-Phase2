@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+/*
+ * Student Name: Tong Wu
+ * Student Number: 251155168
+ * Goal: Set Big Boss A Destination 
+ */
+
 public class NewBehaviourScript : MonoBehaviour
 {
 

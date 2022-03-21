@@ -2,6 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Student Name: Tong Wu
+ * Student Number: 251155168
+ * Goal: Change Animation of Big Boss
+ */
+
 public class GiantAI : MonoBehaviour
 {
    

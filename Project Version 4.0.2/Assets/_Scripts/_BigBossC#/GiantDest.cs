@@ -2,6 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Student Name: Tong Wu
+ * Student Number: 251155168
+ * Goal: Make Big Boss Move
+ */
+
 public class GiantDest : MonoBehaviour
 {
 

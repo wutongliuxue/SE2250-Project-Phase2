@@ -3,6 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
+/*
+ * Student Name: Tong Wu
+ * Student Number: 251155168
+ * Goal: Big Boss Animation Manager
+ */
+
 public class LB3DGameManager : MonoBehaviour {
 
     public Animator animator;

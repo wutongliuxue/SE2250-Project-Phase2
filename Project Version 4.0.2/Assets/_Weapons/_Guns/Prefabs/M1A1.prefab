@@ -356,6 +356,7 @@ GameObject:
   - component: {fileID: 398779188302630706}
   - component: {fileID: 1063816135455577482}
   - component: {fileID: 1063816135455577483}
+  - component: {fileID: -1953584887403582038}
   m_Layer: 0
   m_Name: M1A1
   m_TagString: Untagged
@@ -452,6 +453,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &-1953584887403582038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1063816135455577480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 901b9e80b81f1a24da9a82c31d935da9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 5806456056290294220, guid: 2d688de24e7387b498193f404eef63af, type: 3}
+  shootForce: 125
+  upwardForce: 1
+  attackPoint: {fileID: 0}
 --- !u!1 &1473863401288948816
 GameObject:
   m_ObjectHideFlags: 0
